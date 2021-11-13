@@ -1,4 +1,46 @@
 {
+    "1": {
+        "Balance": {
+            "address": "0x67B6CE0aD583fd2c8c2701A2BAB3c27CB4758c1b",
+            "deployBlockNumber": 13568461
+        },
+        "Budget": {
+            "address": "0x29a265890abf4faa084c9a5a475f49a2afc3412b",
+            "deployBlockNumber": "0xcef17f"
+        },
+        "ERC1167": {
+            "address": "0x7ecFCbdeb6f195030B9Bf2ECc402f6d5433d116D",
+            "deployBlockNumber": 13568682
+        },
+        "GovernanceToken": {
+            "address": "0x5F2080542ab6ae7e0b06778F0B2d263006297840",
+            "deployBlockNumber": 13561696
+        },
+        "GovernorBravo": {
+            "address": "0x7725c6045092DEB243ae23aFB4355f43aAC1FC22",
+            "deployBlockNumber": 13561755
+        },
+        "ProxyFactory": {
+            "address": "0x1C438184c2746b7887E97c8093a7A79A0429E8dC",
+            "deployBlockNumber": 13568692
+        },
+        "Storage": {
+            "address": "0x5AE235502Bf1de231AfD75364670d50e3C3694A6",
+            "deployBlockNumber": 13568624
+        },
+        "Store": {
+            "address": "0xDdfbffEfacB7598Ad995D327Ea4fF2D42aCF7b77",
+            "deployBlockNumber": 13568517
+        },
+        "Timelock": {
+            "address": "0xDd69647fc0D46595b04b4082b0C760e2c98C90a2",
+            "deployBlockNumber": 13561765
+        },
+        "Treasury": {
+            "address": "0xb2A55570Ae16cb8b04432790ADa44D6008e1111a",
+            "deployBlockNumber": 13562176
+        }
+    },
     "3": {
         "Balance": {
             "address": "0xdd4f76edF1B7Fd0707a4Cb1385092A8398bd2f81",
@@ -39,6 +81,142 @@
         "Treasury": {
             "address": "0x8B869f014538118DDE992a7E568CE90479F7B4e8",
             "deployBlockNumber": 11292246
+        }
+    },
+    "56": {
+        "Balance": {
+            "address": "0xb2A55570Ae16cb8b04432790ADa44D6008e1111a",
+            "deployBlockNumber": 12474599
+        },
+        "Budget": {
+            "address": "0x98af329C07E1F3cb4fd32f52B603F401bBF0f23C",
+            "deployBlockNumber": 12474624
+        },
+        "ERC1167": {
+            "address": "0x1F59Ee3B1ff055Be0b84BcB6D7beAa7f984fFf2e",
+            "deployBlockNumber": 12474693
+        },
+        "GovernorMultisig": {
+            "address": "0x5F2080542ab6ae7e0b06778F0B2d263006297840",
+            "deployBlockNumber": 12474395
+        },
+        "ProxyFactory": {
+            "address": "0xE5e4765eeA4Aea14e4C894a79d517277d6E241EE",
+            "deployBlockNumber": 12474698
+        },
+        "Storage": {
+            "address": "0x1CeC05129206d9fBEE2e86E1A9294E64f7F86461",
+            "deployBlockNumber": 12474658
+        },
+        "Store": {
+            "address": "0x38cb8B582D5892a0E2E7A9f01B4127c60DfB469B",
+            "deployBlockNumber": 12474645
+        },
+        "Treasury": {
+            "address": "0x1E46B649d6651b3892217Dd1EFd2a3e78f4D904B",
+            "deployBlockNumber": 12474592
+        }
+    },
+    "97": {
+        "Balance": {
+            "address": "0x92Df189712C2d1ABe508F1a7220F7ebc92c41A7E",
+            "deployBlockNumber": 13906321
+        },
+        "Budget": {
+            "address": "0x5133A6064392f1cc69DE49e3FBeB890C921D68E4",
+            "deployBlockNumber": 13906354
+        },
+        "ERC1167": {
+            "address": "0xF28C8D44C1dD837FEc8a93a7BCD540552e954E7B",
+            "deployBlockNumber": 13906476
+        },
+        "GovernorMultisig": {
+            "address": "0x6047a7491a501bC9047BC6bC592555ec16aBF11D",
+            "deployBlockNumber": 13906312
+        },
+        "ProxyFactory": {
+            "address": "0x7ecFCbdeb6f195030B9Bf2ECc402f6d5433d116D",
+            "deployBlockNumber": 13906480
+        },
+        "Storage": {
+            "address": "0xe6Aa758075Eb4c09b78278aAA00FFD6139fbf7dc",
+            "deployBlockNumber": 13906414
+        },
+        "Store": {
+            "address": "0xB0E5922Bf9F0AEac7f00198a5fe4ff59Be81225f",
+            "deployBlockNumber": 13906390
+        },
+        "Treasury": {
+            "address": "0x1C438184c2746b7887E97c8093a7A79A0429E8dC",
+            "deployBlockNumber": 13932940
+        }
+    },
+    "43113": {
+        "Balance": {
+            "address": "0x1E46B649d6651b3892217Dd1EFd2a3e78f4D904B",
+            "deployBlockNumber": 2486571
+        },
+        "Budget": {
+            "address": "0x64bA6C02321D77AD00308F06aD72beE7149b39A6",
+            "deployBlockNumber": 2486586
+        },
+        "ERC1167": {
+            "address": "0x62cA8Ec7e7a6852D93Fb4e4b5583d6D7b2c10b7F",
+            "deployBlockNumber": 2486642
+        },
+        "GovernorMultisig": {
+            "address": "0x5F2080542ab6ae7e0b06778F0B2d263006297840",
+            "deployBlockNumber": 2486550
+        },
+        "ProxyFactory": {
+            "address": "0xbbaDa894933398c1Fca03bdd8B872bb444A483f2",
+            "deployBlockNumber": 2486647
+        },
+        "Storage": {
+            "address": "0xDdfbffEfacB7598Ad995D327Ea4fF2D42aCF7b77",
+            "deployBlockNumber": 2486613
+        },
+        "Store": {
+            "address": "0x040ccf6CA8CCFEd2eA741F1Dd76245314946f078",
+            "deployBlockNumber": 2486599
+        },
+        "Treasury": {
+            "address": "0xDd69647fc0D46595b04b4082b0C760e2c98C90a2",
+            "deployBlockNumber": 2486568
+        }
+    },
+    "43114": {
+        "Balance": {
+            "address": "0x1E46B649d6651b3892217Dd1EFd2a3e78f4D904B",
+            "deployBlockNumber": 6885271
+        },
+        "Budget": {
+            "address": "0x64bA6C02321D77AD00308F06aD72beE7149b39A6",
+            "deployBlockNumber": 6885300
+        },
+        "ERC1167": {
+            "address": "0xbbaDa894933398c1Fca03bdd8B872bb444A483f2",
+            "deployBlockNumber": 6885389
+        },
+        "GovernorMultisig": {
+            "address": "0x5F2080542ab6ae7e0b06778F0B2d263006297840",
+            "deployBlockNumber": 6885256
+        },
+        "ProxyFactory": {
+            "address": "0x770D64Ae34a52d8B60e0CC34F7991F19e026CfD7",
+            "deployBlockNumber": 6885394
+        },
+        "Storage": {
+            "address": "0xDdfbffEfacB7598Ad995D327Ea4fF2D42aCF7b77",
+            "deployBlockNumber": 6885344
+        },
+        "Store": {
+            "address": "0x040ccf6CA8CCFEd2eA741F1Dd76245314946f078",
+            "deployBlockNumber": 6885326
+        },
+        "Treasury": {
+            "address": "0xDd69647fc0D46595b04b4082b0C760e2c98C90a2",
+            "deployBlockNumber": 6885265
         }
     }
 }
