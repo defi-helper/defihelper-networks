@@ -180,14 +180,6 @@
       "address": "0xB0E5922Bf9F0AEac7f00198a5fe4ff59Be81225f",
       "blockNumber": 5536908
     },
-    "Store": {
-      "address": "0xE8ee02Aeffc506d5F1Df9e78f2AD189b0ae78B3e",
-      "blockNumber": 5536874
-    },
-    "Treasury": {
-      "address": "0x8dE8AFa08196Bb03fb8eE4cEe8BAdCe98fE4D063",
-      "blockNumber": 5536794
-    },
     "StoreUpgradable": {
       "address": "0x4883B92D0c1cD3B857d6D9d5F3882Fc3857Dcc87",
       "blockNumber": 16044466
@@ -199,6 +191,10 @@
     "ProxyAdmin": {
       "address": "0xF28C8D44C1dD837FEc8a93a7BCD540552e954E7B",
       "blockNumber": 16044422
+    },
+    "LPTokensManager": {
+      "address": "0x295425B90077252D52c35F15eABfb5C6d3178a4C",
+      "blockNumber": 16182616
     }
   },
   "56": {
@@ -209,10 +205,6 @@
     "Budget": {
       "address": "0x98af329C07E1F3cb4fd32f52B603F401bBF0f23C",
       "blockNumber": 12474624
-    },
-    "BuyLiquidity": {
-      "address": "0x386bE298d4C15D89Fff23F9C9BB481e93B05BAc4",
-      "blockNumber": 15480679
     },
     "ERC1167": {
       "address": "0x1F59Ee3B1ff055Be0b84BcB6D7beAa7f984fFf2e",
@@ -230,14 +222,6 @@
       "address": "0x1CeC05129206d9fBEE2e86E1A9294E64f7F86461",
       "blockNumber": 12474658
     },
-    "Store": {
-      "address": "0x38cb8B582D5892a0E2E7A9f01B4127c60DfB469B",
-      "blockNumber": 12474645
-    },
-    "Treasury": {
-      "address": "0x1E46B649d6651b3892217Dd1EFd2a3e78f4D904B",
-      "blockNumber": 12474592
-    },
     "StoreUpgradable": {
       "address": "0x64c7199F7d2A1719B1625981B28cbe8BA69C1415",
       "blockNumber": 19920334
@@ -249,6 +233,10 @@
     "ProxyAdmin": {
       "address": "0x3d0729c0718436f1B044d43230cFEDF78eCfceaf",
       "blockNumber": 19920305
+    },
+    "LPTokensManager": {
+      "address": "0x7d441fc545c32AE943814Fd5170DD1feaa4C515A",
+      "blockNumber": 19940075
     }
   },
   "1285": {
@@ -259,10 +247,6 @@
     "Budget": {
       "address": "0xe890Dbb2EA4dd17ec0D1F9a2DD6a756D2C637f97",
       "blockNumber": 1087753
-    },
-    "BuyLiquidity": {
-      "address": "0xe1FEfee11adAC616090BB9c0a45967e78607Aa21",
-      "blockNumber": 1514604
     },
     "ERC1167": {
       "address": "0xd8C830401453796e043b35B628EF55A18817D9bD",
@@ -280,14 +264,6 @@
       "address": "0x9B8583F71240ea6fa1A2a1e60BF4CE7DAfd6D5E4",
       "blockNumber": 1087772
     },
-    "Store": {
-      "address": "0x0473d8Af0deAeb83B8687c0828e736A0f92d33F8",
-      "blockNumber": 1087764
-    },
-    "Treasury": {
-      "address": "0x31E723E3ff71D70cAb6a914BaB3d901d36497610",
-      "blockNumber": 1087738
-    },
     "StoreUpgradable": {
       "address": "0x8436bB50a3C371da0fAa74BD6eDdF84179B331be",
       "blockNumber": 2275750
@@ -299,6 +275,10 @@
     "ProxyAdmin": {
       "address": "0xDffd56375B96d178049B8BEa93867502d50eeD51",
       "blockNumber": 2275741
+    },
+    "LPTokensManager": {
+      "address": "0x297ebF8a23F99c6Ae3C00CBF2CECA84506e9d860",
+      "blockNumber": 2279583
     }
   },
   "43113": {
